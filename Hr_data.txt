@@ -1,0 +1,10 @@
+ID,Password,Position,Name,Address,Salary,StartDate
+418335,1234,3,Vedat Erdöl,Ankara caddesi No: 7 96 t İzmir,23000.0,20/04/2023
+772826,1233,2,Vedat,asdasdsad,123333.0,02/05/2023
+985140,123456,0,Uro,Arog,123444.0,10/02/2023
+157799,1234,5,Sami,Karabağlar İzmir,45000.0,10/04/2023
+914389,1233,3,Ergin Yalman,İstanbul,1234445.0,02/05/2023
+395390,1234,1,Selami Kutay Erdoğan,İnönu Caddesi Alkan 3 Apt. No:375 Karabağlar İzmir,240000.0,01/05/2023
+196884,1234,0,Kutay,Göztepe mah.,12000.0,11/05/2023
+860003,1233,4,Berdan,Çiğli,34000.0,11/05/2023
+102749,3456,1,Selin Şensoy,Hatay İzmir,12300.0,25/05/2023
